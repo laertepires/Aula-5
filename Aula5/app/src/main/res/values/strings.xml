@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aula5</string>
+
+    <!-- variável para TOAST -->
+    <string name="toast_msg">Oi, Tudo bem?!</string>
+
+    <!-- variável para ALERT -->
+    <string name="alert_title">Mensagem</string>
+    <string name="alert_msg">Oi, sou um alert!</string>
+    <string name="alert_botao">OK</string>
+
+    <!-- variável para o botao -->
+    <string name="botao_toast">Mostrar Toast</string>
+    <string name="botao_alert">Mostrar Alert</string>
+
+</resources>
